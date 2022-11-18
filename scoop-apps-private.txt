@@ -1,0 +1,6 @@
+bitwarden
+discord
+firefox
+nextcloud
+spotify
+steam
